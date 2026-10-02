@@ -4,12 +4,13 @@
 
 Open software engineering jobs whose title asks for a new graduate, entry-level or junior engineer.
 
-**929 open jobs** match this list today; the newest 250 are below, newest first. Last updated Oct 2, 2026.
+**930 open jobs** match this list today; the newest 250 are below, newest first. Last updated Oct 2, 2026.
 
 > **Get matched to these jobs.** Upload your resume on [hirly](https://hirly.me/?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs&utm_content=cta) to see how it matches roles like these.
 
 | Company | Role | Location | Posted | Apply |
 | --- | --- | --- | --- | --- |
+| Citi | Junior Generative AI Application Developer | Irving Texas United States · United States | 2026-10-02 | [Apply](https://hirly.me/jobs/junior-generative-ai-application-developer-at-citi-cc35cbbd-ab98-4901-b2ba-5295df51af85?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs) |
 | Tsys | Java Software Engineer I | BUCHAREST · Romania | 2026-10-02 | [Apply](https://hirly.me/jobs/java-software-engineer-i-at-tsys-ed6e2d49-e2ad-447d-9a29-a66036cb38c1?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs) |
 | AtkinsRéalis | Junior Full Stack Engineer | GB.Epsom.Woodcote Grove +4 · United Kingdom | 2026-10-02 | [Apply](https://hirly.me/jobs/junior-full-stack-engineer-at-slihrms-b530541a-a968-402a-ba62-d8e1876b1434?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs) |
 | Relx | Tech Accelerate Graduate Program - Software Engineer (Sydney) | Australia | 2026-10-02 | [Apply](https://hirly.me/jobs/tech-accelerate-graduate-program-software-engineer-sydney-at-relx-e33d9d12-3a7c-46a2-9c5a-7da088061f87?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs) |
@@ -259,11 +260,10 @@ Open software engineering jobs whose title asks for a new graduate, entry-level 
 | Amgen | Associate Software Engineer - DTI Marketing | India | 2026-09-23 | [Apply](https://hirly.me/jobs/associate-software-engineer-dti-marketing-at-amgen-83242ae1-60d1-43e5-9475-db4eed500fb0?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs) |
 | Boeing | Associate Software Engineer | USA - Maryland Heights, MO +1 · United States | 2026-09-23 | [Apply](https://hirly.me/jobs/associate-software-engineer-at-boeing-3b2a5238-13bb-4ee5-9c47-6abd32703575?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs) |
 | Relativity | Full Stack Software Engineer I | Long Beach, California · United States | 2026-09-22 | [Apply](https://hirly.me/jobs/full-stack-software-engineer-i-at-relativity-efd892cc-0bf8-4362-9412-6bbb835ae38f?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs) |
-| Datalabusa | Production Programmer - Entry Level SQL Developer | Westminster, CO · United States | 2026-09-22 | [Apply](https://hirly.me/jobs/production-programmer-entry-level-sql-developer-at-datalabusa-bf76610e-b6cc-4659-97ca-9bf5b337d2ba?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs) |
 
 \* The employer’s page gives no posting date; this is the day hirly first saw the job.
 
-Looking for the other 679? [Search every open job on hirly](https://hirly.me/jobs?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs&utm_content=more).
+Looking for the other 680? [Search every open job on hirly](https://hirly.me/jobs?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs&utm_content=more).
 
 ## How this list is built
 
@@ -271,10 +271,24 @@ Looking for the other 679? [Search every open job on hirly](https://hirly.me/job
 - **Open jobs only.** Every job here was open when the list was rendered; one that has closed since is dropped at the next render.
 - **No repeats, no flooding.** The same role in the same place is listed once, and one employer gets at most ten rows.
 - **Links.** “Apply” opens the job’s page on hirly.me, which shows the posting and links to the employer’s own application page.
-- **Updates.** This README is generated from hirly’s job data; the date above is when it was last rendered.
+- **Updates.** A GitHub Action re-renders this README once a day from [the list’s JSON](https://hirly.me/api/job-lists/new-grad-software-engineer-jobs.json).
+
+## More job lists
+
+- [Tech Internships 2027](https://github.com/Hirly-Me/Tech-Internships-2027) — Open software, data, AI, security, product and design internships whose title names 2027.
+- [Remote Software Engineer Jobs](https://github.com/Hirly-Me/Remote-Software-Engineer-Jobs) — Open software engineering jobs whose title or location says the role is remote.
+- [AI &amp; ML Engineer Jobs](https://github.com/Hirly-Me/AI-ML-Engineer-Jobs) — Open engineering jobs whose title names AI or machine learning.
+- [Data Science Jobs](https://github.com/Hirly-Me/Data-Science-Jobs) — Open data scientist and data science jobs.
+- [DevOps &amp; SRE Jobs](https://github.com/Hirly-Me/DevOps-SRE-Jobs) — Open DevOps, site reliability, platform and cloud infrastructure engineering jobs.
+- [Product Manager Jobs](https://github.com/Hirly-Me/Product-Manager-Jobs) — Open product manager and product owner jobs.
+- [Cybersecurity Jobs](https://github.com/Hirly-Me/Cybersecurity-Jobs) — Open cybersecurity jobs: security engineering, analysis, operations and architecture.
+- [Software Jobs in India](https://github.com/Hirly-Me/Software-Jobs-India) — Open software engineering and data jobs located in India.
+- [Tech Jobs in Europe](https://github.com/Hirly-Me/Tech-Jobs-Europe) — Open software engineering and data jobs located in the EU, the UK, Switzerland or Norway.
 
 ## License
 
 The list format and the code that renders it are MIT licensed (see [LICENSE](LICENSE) and [Hirly-Me/.github](https://github.com/Hirly-Me/.github)). The job postings belong to the employers who published them.
 
 [hirly](https://hirly.me/?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs&utm_content=footer) is a product of Insihts, Corp.
+
+<!-- job-list: rendered from the live endpoint -->
