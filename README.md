@@ -4,7 +4,7 @@
 
 Open software engineering jobs whose title asks for a new graduate, entry-level or junior engineer.
 
-**884 open jobs** match this list today; the newest 250 are below, newest first. Last updated Nov 13, 2026.
+**884 open jobs** match this list today; the newest 250 are below, newest first. Last updated Nov 14, 2026.
 
 > **Get matched to these jobs.** Upload your resume on [hirly](https://hirly.me/?utm_source=github&utm_medium=joblist&utm_campaign=new-grad-software-engineer-jobs&utm_content=cta) to see how it matches roles like these.
 
